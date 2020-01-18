@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.0fb297e294972afab528d574d234b075.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.27ff9fbfc3ddf0fc368a8d7bbe73c60c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.f866c588e1adfd1d1811459f2e83ba45.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.7eaf663f889e3a9610099922807e6096.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.f60b606fe9b500359d1801185335bff1.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.fa735a06601c1bfae853372d6e77d4dc.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "ArcGIS React Template",
+  "short_name": "ArcGISReactTemplate",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "React Template for ArcGIS JSAPI",
+  "background_color": "#0079c1",
+  "theme_color": "#0079c1"
+}
